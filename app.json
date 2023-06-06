@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/BishnoiBotz/Trybot1",
-    "repository": "https://github.com/BishnoiBotz/Trybot1",
+    "website": "https://github.com/rambabubot/Piro",
+    "repository": "https://github.com/rambabubot/Piro",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
